@@ -1,0 +1,58 @@
+name: edward.kozey
+description: solution
+version: 7.7.182
+author: gxuwhdgl.vuey6mqt@xnxsa5l1.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: edwardkozey
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:48:37'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:48:37'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:48:37.075688Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '1305522067'
+  createdAt: '2025-12-05T22:48:37.075688Z'
+  type: plibMaven
+projectDependencies:
+  '434':
+    projectUID: 434
+    projectName: kaylee.brekke
+    repositoryPath: gitUri=http://gitserver:3000/dev_N3GWqD4t_team_734/dev_N3GWqD4t_project_434.git&subPath=
+    version: kaylee.brekke/0.9.1.97
+    isDefault: false
+    author: null
+    createdAt: '2025-12-05 22:48:34'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
